@@ -1,1 +1,1 @@
-# laboratorna7
+# laba-7
